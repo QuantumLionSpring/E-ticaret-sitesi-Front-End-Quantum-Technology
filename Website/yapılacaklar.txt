@@ -1,0 +1,4 @@
+footer kısmındaki düzenleme ve hizalama yapılacak++
+anasayfada imgelere resimlere href verip demo sayfa yapılması lazım++
+yazı değeri siyah olacak ++
+
